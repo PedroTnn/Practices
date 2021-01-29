@@ -1,0 +1,15 @@
+#container{
+    width: 600px;
+    margin:  0px auto;
+    padding: 0 20px 20px 20px;
+    border: 1px solid;
+}
+
+#title img{
+    width: 600px;
+    display: block;
+    
+}
+#title h1{
+    text-align: center;
+}
