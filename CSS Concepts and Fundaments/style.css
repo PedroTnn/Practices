@@ -1,0 +1,55 @@
+
+  *{
+     box-sizing: border-box;
+  }
+#container{
+    padding-top: 100px;
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    box-sizing: border-box;
+}
+
+#a{
+    text-align: center;
+    background-color: red;
+    position: fixed;
+    top: 0;
+  }
+
+#caja-1{
+    border: 1px solid black;
+    width: 500px;
+    float: left;
+    height: 100px;
+    background-color: brown;
+}
+#caja-1 .boton{
+    right: 0;
+}
+
+
+#caja-2{
+    border: 1px solid black;
+    width: 500px;
+    float: right;
+    height: 100px;
+    background-color: cornflowerblue;
+}
+
+#caja-3{
+    border: 1px solid black;
+    width: 500px;
+    float: left;
+    height: 100px;
+    background-color:darkgoldenrod;
+}
+
+#caja-4{
+    border: 1px solid black;
+    width: 500px;
+    float: right;
+    height: 100px;
+    right: 40px;
+    background-color: darkolivegreen;
+}
