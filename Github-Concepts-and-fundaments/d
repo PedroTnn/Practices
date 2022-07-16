@@ -1,0 +1,41 @@
+[33mcommit 922be830348f26e1e5ab40a34dd8de798519f3c3[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Pedro T <pedrotnns@gmail.com>
+Date:   Fri Jul 15 20:19:09 2022 -0600
+
+    Look status short
+
+[33mcommit 14348c89e26b505cf6d7111a0dbd8394263682dc[m
+Author: Pedro T <pedrotnns@gmail.com>
+Date:   Fri Jul 15 12:09:35 2022 -0600
+
+    agregando archivo gitignore
+
+[33mcommit f176d806c5f4f84d85a7ab8d35bf9f2f882e4af4[m
+Author: Pedro T <pedrotnns@gmail.com>
+Date:   Fri Jul 15 12:06:13 2022 -0600
+
+    Rename to Hola.txt
+
+[33mcommit d7afe3abc519b244393f0d82abf2889b875aa4f3[m
+Author: Pedro T <pedrotnns@gmail.com>
+Date:   Fri Jul 15 12:04:18 2022 -0600
+
+    renombrando archivo
+
+[33mcommit aafcb29432d95f34a709d48a281ec5d1575625ea[m
+Author: Pedro T <pedrotnns@gmail.com>
+Date:   Fri Jul 15 11:59:43 2022 -0600
+
+    Delete file
+
+[33mcommit 731091d8297f0795344c4df0c62bc37a12e93a26[m
+Author: Pedro T <pedrotnns@gmail.com>
+Date:   Fri Jul 15 11:57:32 2022 -0600
+
+    add two file
+
+[33mcommit 0c64fab68269cb1a5a7dd3e526f01a20fdcb7b84[m
+Author: Pedro T <pedrotnns@gmail.com>
+Date:   Fri Jul 15 11:56:21 2022 -0600
+
+    Creacion de commit inicial
