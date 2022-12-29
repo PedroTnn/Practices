@@ -1,0 +1,55 @@
+
+.container{
+   width: 1092px;
+   /* Centramos un documento */
+   margin: 0 auto;
+}
+
+*{
+    text-decoration: none;
+    
+}
+
+
+a:link{
+    color: blue;
+}
+
+
+a:visited{
+    color: gray;
+}
+a:hover{
+    background-color: aqua;
+}
+
+a:active{
+    color: brown;
+}
+#titulo{
+    color: red;
+    font-family: 'Roboto';
+    outline: 2px black solid;
+    text-align: center;
+    
+}
+/*Estamos eligiendo  en 2clases una propiedad en especifico*/
+.texto{
+    text-align: center;
+    outline: 2px solid black ;
+    display: inline-block;
+    width: 33.3%;
+    height: 50px;
+}
+p.especial{
+    color: cadetblue;
+   /* border: 2px black solid; */
+   outline: 2px black solid;
+   text-align: center;
+   text-decoration: none;
+   display: inline-block;
+   width: 33.3%;
+   height: 50px;
+}
+/* LOS REM SE REFIERE A EL TAMAÑO DE LOS PICCELES LOS CUALES CONTIENE
+EL ELEMENTO RAIZ EN ESTE CASO 16px */
