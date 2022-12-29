@@ -199,3 +199,28 @@ img {
   align-items: center;
 
 }
+.grid-min-max{
+  display: grid;
+  grid-template-columns: repeat(4,minmax(100px,200px));
+  grid-template-columns: repeat(4,minmax(min-content,200px));
+  grid-template-columns: repeat(4,minmax(200px,min-content));
+  grid-template-columns: repeat(4,minmax(max-content,200px));
+}
+
+.grid-repeat{
+  display: grid;
+  grid-template-columns: repeat(4,10% 20% 30% );
+  grid-auto-rows: 150px;
+}
+
+.grid-dynamics{
+  display: grid;
+  grid-template-columns: repeat(4,100px);
+  /* Rellena la grid con tracks generados dinamicamente */
+  grid-template-columns: repeat(auto-fill,100px);
+}
+
+.grid-responsive{
+  display: grid;
+  grid-template-columns: repeat(auto-fit,minmax(200px,1fr));
+}
