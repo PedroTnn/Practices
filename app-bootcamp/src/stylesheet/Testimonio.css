@@ -1,0 +1,39 @@
+.contenedor{
+    width: 1170px;
+    height: 368px;
+    margin: 10px 10px 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #ffffff;
+    box-shadow: 0 3px 13px 1px rgb(0, 0, 0 / 9%);
+}
+.imagen-testimonio{
+   height: 100%;
+   width: auto;
+}
+
+.contenedor-texto{
+    text-align: center;
+    padding: 40px;
+    font-family: Lato,sans-serif;
+    font-weight: 400;
+    line-height: 1.5rem;
+}
+
+.contenedor-texto .name{
+font-size: 2em;
+}
+
+
+.contenedor-texto .post{
+font-size: 1.3em;
+margin-top: 15px;
+padding-bottom: 30px
+}
+
+.contenedor-texto .testimonial{
+    font-size: 1.1em;
+    text-align: justify;
+}
+
